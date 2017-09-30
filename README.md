@@ -1,5 +1,5 @@
 # Data Analysis Learning
-![pdnp](https://imgur.com/DNHPomH)
+[pdnp](https://i.imgur.com/DNHPomH.jpg)
 
 # Here are some useful links:
 - [Official Pandas Website](http://pandas.pydata.org/)
